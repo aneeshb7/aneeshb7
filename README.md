@@ -1,6 +1,9 @@
 👋 Hi, I’m Aneesh Bulusu
+
 👀 I’m interested in backend development
+
 🌱 I’m currently learning TypeScript and Python
+
 📫 How to reach me : email aneesh.bulusu@gmail.com
 
 <!---
