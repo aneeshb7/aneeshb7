@@ -1,12 +1,1 @@
-👋 Hi, I’m Aneesh Bulusu
-
-👀 I’m interested in backend development
-
-🌱 I’m currently learning TypeScript and Python
-
-📫 How to reach me : email aneesh.bulusu@gmail.com
-
-<!---
-aneeshb7/aneeshb7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Hi! I'm Aneesh Bulusu. I am a third-year Combined Honors and Computer Science and Mathematics student at the University of British Columbia. I am currently learning TypeScript and am passionate about backend development. Please feel free to reach me at aneesh.bulusu@gmail.com.
