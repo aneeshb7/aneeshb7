@@ -1,1 +1,1 @@
-Hi! I'm Aneesh. I am a recent Computer Science and Math graduate from the University of British Columbia. Most recently, I worked at Amazon as a Software Engineer and have vast experience in backend engineering.
+Hi! I'm Aneesh. I am a recent Computer Science and Math graduate from the University of British Columbia.
