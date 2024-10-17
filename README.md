@@ -1,1 +1,1 @@
-Hi! I'm Aneesh Bulusu. I am a fourth-year Computer Science and Mathematics student at the University of British Columbia.
+Hi! I'm Aneesh. I am a recent Computer Science and Math graduate from the University of British Columbia. Most recently, I worked at Amazon as a Software Engineer and have vast experience in backend engineering.
